@@ -6,7 +6,7 @@
 
   [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/dl/)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://goreportcard.com/badge/github.com/mateusfigmelo/go_by_examples/pulls)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/mateusfigmelo/go_by_examples/pulls)
   [![Stars](https://img.shields.io/github/stars/mateusfigmelo/go_by_examples?style=social)](https://github.com/mateusfigmelo/go_by_examples/stargazers)
   
   [![Go Reference](https://pkg.go.dev/badge/golang.org/x/example)](https://pkg.go.dev/golang.org/x/example)
